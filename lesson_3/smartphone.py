@@ -4,4 +4,3 @@ class Smartphone:
         self.brand = brand
         self.model = model
         self.number = number
-indentation is not a multiple of 4
